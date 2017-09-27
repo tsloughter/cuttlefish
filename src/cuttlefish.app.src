@@ -5,7 +5,7 @@
     {applications,  [kernel, sasl, stdlib, syntax_tools, getopt, lager]},
     {env,           []},
     {modules,       []},
-    {maintainers,   ["Basho Technologies, Inc."]},
+    {maintainers,   ["RabbitMQ Team @ Pivotal Software"]},
     {licenses,      ["Apache 2.0"]},
-    {links,         [{"Github",  "https://github.com/basho/cuttlefish"}]}
+    {links,         [{"GitHub",  "https://github.com/rabbitmq/cuttlefish"}]}
 ]}.
