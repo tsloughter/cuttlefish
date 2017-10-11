@@ -82,7 +82,6 @@
 %% ===================================================================
 %% Public API
 %% ===================================================================
--compile([nowarn_export_all, export_all]).
 
 generate_templated_config(FileName, Conf, Context) ->
     generate_templated_config(FileName, Conf, Context, {[], [], []}).
